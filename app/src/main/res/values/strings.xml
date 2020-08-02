@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">GuideMe</string>
+
+    <!-- For attraction fragment-->
+    <string name="attraction_udaygiri_name">Udaygiri and Khandagiri Caves</string>
+    <string name="attraction_udaygiri_address">Khandagiri, Bhubaneswar, Odisha 751030</string>
+    <string name="attraction_mahanadi_name">Mahanadi River (Sunset View)</string>
+    <string name="attraction_mahanadi_address">Cuttack, Odisha 753001</string>
+    <string name="attraction_deras_name">Deras Dam</string>
+    <string name="attraction_deras_address">Kantabada, Deras Dam Rd, Barapita, Odisha 752054</string>
+    <string name="attraction_biju_name">Biju Patnaik Park</string>
+    <string name="attraction_biju_address">Forest Park, Bhubaneswar, Odisha 751009</string>
+    <string name="attraction_ekamra_name">Ekamra Kanan Botanical Gardens</string>
+    <string name="attraction_ekamra_address">Nayapalli, Bhubaneswar, Odisha 751015</string>
+
+    <!-- For museum fragment-->
+    <string name="museum_openair_name">Open Air Museum</string>
+    <string name="museum_openair_address">Kalinganagar, Bhubaneswar, Odisha 751003</string>
+    <string name="museum_tribalarts_name">Museum of Tribal Arts</string>
+    <string name="museum_tribalarts_address">CRPF Colony, Nayapalli, Bhubaneswar 751003</string>
+    <string name="museum_kala_name">Kala Bhoomi Crafts Museum</string>
+    <string name="museum_kala_address">Pokhariput, Bhubaneswar, Odisha 751020</string>
+    <string name="museum_state_name">Odisha State Museum</string>
+    <string name="museum_state_address">Lewis Rd, BJB Nagar, Bhubaneswar, Odisha 751014</string>
+    <string name="museum_educational_name">Educational Museum</string>
+    <string name="museum_educational_address">Unit 8, Quat, Bhubaneswar, 751003</string>
+
+    <!-- For college fragment-->
+    <string name="college_gita_name">GITA Bhubaneswar</string>
+    <string name="college_gita_address">Badaraghunathpur, Beside NH-5, Janla, Bhubaneswar, Odisha 752054</string>
+    <string name="college_cv_name">C.V. Raman Global University</string>
+    <string name="college_cv_address">Bidyanagar, Mahura, Janla, Bhubaneswar 752054</string>
+    <string name="college_kiit_name">KIIT</string>
+    <string name="college_kiit_address">KIIT Road, Patia, Bhubaneswar, Odisha 751024</string>
+    <string name="college_iter_name">ITER</string>
+    <string name="college_iter_address">Jagamara, Khandagiri, Bhubaneswar, Odisha 751030</string>
+    <string name="college_gift_name">Gandhi Institute For Technology</string>
+    <string name="college_gift_address">Gramadiha, Bhubaneswar, 752054</string>
+
+    <!-- For temple fragment-->
+    <string name="temple_jagannath_name">Shri Jagannath Temple</string>
+    <string name="temple_jagannath_address">Puri, Odisha 752002</string>
+    <string name="temple_hanuman_name">Bedi Hanuman Temple</string>
+    <string name="temple_hanuman_address">Chakra Tirtha Rd, Puri, Odisha 752002</string>
+    <string name="temple_nilkantheshwar_name">Shri Nilkantheshwar Temple</string>
+    <string name="temple_nilkantheshwar_address">Near GITA college, Bhubaneswar, Odisha 752054</string>
+    <string name="temple_laxmi_name">Shree Laxmi Narayan Temple</string>
+    <string name="temple_laxmi_address">near NH 5, Tamando, Bhubaneswar, Odisha 751019</string>
+    <string name="temple_chandi_name">Chandi Mandir</string>
+    <string name="temple_chandi_address">Beguniabarahi, Bhubaneswar, 752054</string>
+</resources>
